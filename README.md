@@ -8,6 +8,18 @@ and saves downloaded videos locally.
 The logic is separated into dedicated modules to keep the codebase clean,
 readable, and easy to extend.
 
+## Screenshots
+
+### Running the application
+![Running the program](screenshots/run.png)
+
+### Download in progress
+![Downloading video](screenshots/download.png)
+
+### Downloaded files
+![Downloaded video file](screenshots/files.png)
+
+
 ## How It Works
 The program starts execution from `main.py`. User input is first validated using
 utility functions to ensure correctness. Once validated, the request is passed
